@@ -4,7 +4,7 @@ Welcome to my collection of Python-based hacking tools. Please note that the too
 
 ## Tools Included
 
-1. arp_spoof
+1. **arp_spoof**
    - Description: ARP spoofing tool for network manipulation.
    - Usage: `python arp_spoof.py [options]`
 
