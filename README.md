@@ -8,27 +8,27 @@ Welcome to my collection of Python-based hacking tools. Please note that the too
    - Description: ARP spoofing tool for network manipulation.
    - Usage: `python arp_spoof.py [options]`
 
-2. code_injector
+2. **code_injector**
    - Description: Python script for injecting code into network packets.
    - Usage: `python code_injector.py [options]`
 
-3. mac_changer
+3. **mac_changer**
    - Description: MAC address changer tool for network anonymity.
    - Usage: `python mac_changer.py [options]`
 
-4. net_cut
+4. **net_cut**
    - Description: Script for cutting off a user's internet connection on the network.
    - Usage: `python net_cut.py [options]`
 
-5. network_scanner
+5. **network_scanner**
    - Description: Network scanner tool for discovering devices on the network.
    - Usage: `python network_scanner.py [options]`
 
-6. packet_sniffer
+6. **packet_sniffer**
    - Description: Packet sniffer for intercepting and logging network traffic.
    - Usage: `python packet_sniffer.py [options]`
 
-7. replace_download
+7. **replace_download**
    - Description: Tool for replacing downloaded files on a target machine.
    - Usage: `python replace_download.py [options]`
 
@@ -48,4 +48,4 @@ Contributions to improve the functionality or security of these tools are welcom
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under Josan George.
